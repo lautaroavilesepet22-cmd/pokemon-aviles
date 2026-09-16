@@ -1,0 +1,6 @@
+{
+  "name": "Pokémon Rojo Fuego - Prototipo GBA (Tkinter & Web)",
+  "description": "Prototipo jugable de Pokémon Rojo Fuego / Verde Hoja (GBA) con motor en canvas, overworld, batallas por turnos y generador de código Python Tkinter listo para ejecutar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
